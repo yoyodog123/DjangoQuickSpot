@@ -1,0 +1,2 @@
+# DjangoQuickSpot
+quickspot
